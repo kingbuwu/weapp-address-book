@@ -7,7 +7,8 @@
 ## 截屏
 
 ### 电脑上的截屏
-![]()
+![](https://github.com/kingbuwu/weapp-address-book/blob/master/images/1.png)
+![](https://github.com/kingbuwu/weapp-address-book/blob/master/images/2.png)
 
 ## 如何使用
 
